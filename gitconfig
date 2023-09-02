@@ -1,5 +1,5 @@
 [color]
-  branch = auto
+	branch = yellow
   diff = auto
   interactive = auto
   status = auto
@@ -8,6 +8,7 @@
 [color "branch"]
   current = green
   remote = yellow
+	upstream = yellow
 
 [core]
   pager = less -FRSX
